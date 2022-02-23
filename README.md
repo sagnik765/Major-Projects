@@ -1,7 +1,7 @@
 # Major-Projects
 A list of my Major Projects
 
-1. American Sign Language Text Conversion System using Computer Vision     https://github.com/sagnik765/American-Sign-Language-Text-Convertor
+1. American Sign Language Text Conversion System    https://github.com/sagnik765/American-Sign-Language-Text-Convertor
 
 2. Malaria Infection Detection using CNN    https://github.com/sagnik765/Malaria-Infection-Detection
 
